@@ -1,1 +1,2 @@
 # cerchez-incluziune
+Se considera un fisier text cu numele prim.txt care contine doua linii. Pe prima linie se afla elementele multimii A, iar pe a doua linie sunt scrise elementele multimii B. Elementele celor doua multimi sunt din multimea ['a' .. 'z', 'A' .. 'Z', '0' .. '9'] si sunt separate intre ele prin cate un spatiu. Scrieti un program care scrie pe prima linie a fisierului de tip text doi.txt cuvantul "DA" daca multimea A este inclusa in B, respectiv "NU" in caz contrar.
